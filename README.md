@@ -1,2 +1,3 @@
 # Simple-Order-Management
-Simple Order Management for technical test
+
+This project is for a simple order management in spring boot.
